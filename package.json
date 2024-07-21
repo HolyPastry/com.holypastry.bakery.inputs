@@ -1,0 +1,28 @@
+{
+  "name": "com.holypastry.bakery.inputs",
+  "version": "0.0.1",
+  "displayName": "Bakery Inputs",
+  "description": "Base setups for the new input system",
+  "unity": "2022.3",
+  "unityRelease": "29f1",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+  },
+  "hideInEditor": false,
+  "keywords": [
+    "Inputs",
+    "Bake Goods"
+  ],
+  "author": {
+    "name": "Sebastien Berton",
+    "email": "sebasti1.berton@gmail.vom",
+    "url": "https://github.com/HolyPastry"
+  },
+  "samples": [
+    {
+      "displayName": "Scripts",
+      "description": "The input scripts",
+      "path": "Samples~/SampleScripts"
+    }
+  ]
+}
